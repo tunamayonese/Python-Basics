@@ -1,11 +1,13 @@
-#piece of space wher we cna store information
+# variables: piece of space where we can store information
 
+# examples
 age = 12
 name = "fred"
 temp = 48.0
 is_ok = True
 uh_oh = None #none
 
+# variable types
 print(type(age))
 print(type(name))
 print(type(temp))
