@@ -1,4 +1,5 @@
+# simplest program: how to print in python
 print('hello beer')
 
-#written in statements line-by-line, interpreted by line-by-line
+#codes is written in statements line-by-line, interpreted by line-by-line
 
