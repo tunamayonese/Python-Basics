@@ -14,7 +14,16 @@ print(list)
 ans = list[1]
 print(ans)
 
-#gets an element from the last index
+# gets an element from the last index
 ans = list[-1]
 print(ans)
 
+# getting a subselection of items
+ans = list[0:4]  #first number is starting index, second number is last index
+print(ans)
+
+ans = list[:4] # from starting up to 4 index
+print(ans)
+
+ans = list[2:] # from 2 up to last index
+print(ans)
