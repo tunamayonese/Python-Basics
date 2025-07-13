@@ -12,4 +12,9 @@ print(list)
 
 # getting an element
 ans = list[1]
-print (ans)
+print(ans)
+
+#gets an element from the last index
+ans = list[-1]
+print(ans)
+
