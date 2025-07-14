@@ -28,7 +28,13 @@ print(ans)
 ans = list[2:] # from 2 up to last index
 print(ans)
 
-ans = list[1:6:2] # from 1 to 6 with 2 steps
 
-ans= list[-4:] # 4 from the back of the list
+ans = list[1:6:2] # from 1 to 6 with 2 steps
+print(ans)
+
+ans = list[-4:] # 4 from the back of the list
+print(ans)
+
+ans = list[::-1] # reversing the direction of the list
+print(ans)
 
