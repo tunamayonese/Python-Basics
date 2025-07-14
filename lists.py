@@ -27,3 +27,6 @@ print(ans)
 
 ans = list[2:] # from 2 up to last index
 print(ans)
+
+ans = list[1:6:2] # from 1 to 6 with 2 steps
+
