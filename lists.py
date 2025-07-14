@@ -30,3 +30,5 @@ print(ans)
 
 ans = list[1:6:2] # from 1 to 6 with 2 steps
 
+ans= list[-4:] # 4 from the back of the list
+
