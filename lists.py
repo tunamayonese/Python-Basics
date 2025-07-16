@@ -38,3 +38,6 @@ print(ans)
 ans = list[::-1] # reversing the direction of the list
 print(ans)
 
+# logical operators
+ans = 34 in list # returns a boolean
+print(ans)
