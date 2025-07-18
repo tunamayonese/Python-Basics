@@ -41,3 +41,6 @@ print(ans)
 # logical operators
 ans = 34 in list # returns a boolean
 print(ans)
+
+ans = 34 not in list
+print(ans)
