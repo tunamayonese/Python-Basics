@@ -44,3 +44,14 @@ print(ans)
 
 ans = 34 not in list
 print(ans)
+
+sentence = "this is a sentence"
+print(len(sentence))
+print(sentence[:4])
+print(sentence[::-1])
+
+ans = "is" in sentence
+print(ans)
+
+
+
